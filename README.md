@@ -1,6 +1,8 @@
 Установка и настройка Webpack. Базовая конфигурация проекта
 [Сайт webpack](https://webpack.js.org/)
 
+<img width="200" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png">
+
 ```code
 npm init -y
 npm install webpack webpack-cli --save-dev
